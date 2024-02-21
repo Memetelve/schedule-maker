@@ -1,0 +1,243 @@
+{
+    "monday": [
+        {
+            "time": "7:30",
+            "end_time": "09:00",
+            "subject": "Anatomia",
+            "type": "Lecture",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#00afcc"
+        },
+                {
+            "time": "9:00",
+            "end_time": "10:00",
+            "subject": "Anatomia",
+            "type": "Lecture",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {
+            "time": "10:00",
+            "end_time": "11:15",
+            "subject": "Anatomia",
+            "type": "Lecture",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {},
+        {
+            "time": "12:45",
+            "end_time": "14:00",
+            "subject": "Chemia medyczna",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#c2e38e"
+        },
+        {
+            "time": "14:00",
+            "end_time": "15:00",
+            "subject": "Chemia medyczna",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {
+            "time": "15:00",
+            "end_time": "16:00",
+            "subject": "Chemia medyczna",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        }
+    ],
+    "tuesday": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "time": "12:45",
+            "end_time": "14:00",
+            "subject": "Anatomia",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#00afcc"
+        },
+        {
+            "time": "14:00",
+            "end_time": "14:45",
+            "subject": "Anatomia",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        }
+    ],
+    "wednesday": [
+        {
+            "time": "08:30",
+            "end_time": "09:00",
+            "subject": "Higiena",
+            "type": "Lecture",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#d7ecff"
+        },
+        {
+            "time": "09:00",
+            "end_time": "10:00",
+            "subject": "Higiena",
+            "type": "Lecture",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {
+            "time": "10:00",
+            "end_time": "11:15",
+            "subject": "Higiena",
+            "type": "Lecture",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {},
+        {},
+        {
+            "time": "12:45",
+            "end_time": "14:00",
+            "subject": "MED. RATUNKOWA",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#ff9284"
+        },
+        {
+            "time": "14:00",
+            "end_time": "15:00",
+            "subject": "MED. RATUNKOWA",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {
+            "time": "15:00",
+            "end_time": "15:45",
+            "subject": "MED. RATUNKOWA",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {
+            "time": "16:00",
+            "end_time": "17:00",
+            "subject": "Higiena",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#d7ecff"
+        },
+        {
+            "time": "17:00",
+            "end_time": "18:15",
+            "subject": "Higiena",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        }
+    ],
+    "thursday": [
+        {
+            "time": "08:00",
+            "end_time": "09:00",
+            "subject": "Informatyka",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#f1e0f7"
+        },
+        {
+            "time": "09:00",
+            "end_time": "09:30",
+            "subject": "Informatyka",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {},
+        {
+            "time": "10:45",
+            "end_time": "12:00",
+            "subject": "Socjologia medycyny",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#5fa20b"
+        },
+        {
+            "time": "12:00",
+            "end_time": "12:15",
+            "subject": "Socjologia medycyny",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {
+            "time": "13:00",
+            "end_time": "14:00",
+            "subject": "Histologia",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#0202a1"
+        },
+        {
+            "time": "14:00",
+            "end_time": "15:15",
+            "subject": "Histologia",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        }
+    ],
+    "friday": [
+        {},
+        {},
+        {},
+        {
+            "time": "12:30",
+            "end_time": "13:00",
+            "subject": "j. Angielski",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#ffe599"
+        },
+        {
+            "time": "13:00",
+            "end_time": "14:00",
+            "subject": "j. Angielski",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        },
+        {},
+        {
+            "time": "15:15",
+            "end_time": "16:00",
+            "subject": "anatomia",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending",
+            "color": "#00afcc"
+        },
+        {
+            "time": "16:00",
+            "end_time": "17:15",
+            "subject": "anatomia",
+            "type": "Lab",
+            "room": "Unknown",
+            "status": "Attending"
+        }
+    ]
+}

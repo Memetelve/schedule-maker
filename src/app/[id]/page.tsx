@@ -101,6 +101,8 @@ export default function SchedulePage() {
                                 color = "";
                             }
 
+                            const customColor = lesson.color;
+
                             console.log(lesson.subject, height, color);
 
                             if (color === "") {
@@ -117,7 +119,7 @@ export default function SchedulePage() {
                                 <div
                                     className={`shadow-lg ${color} mx-2 my-2 py-2 rounded-md p-4 flex flex-col justify-between overflow-scroll`}
                                     key={i}
-                                    style={{ height }}
+                                    style={{ height, backgroundColor: customColor}}
                                 >
                                     <div className="text-md flex flex-row justify-around">
                                         <div>
@@ -125,7 +127,7 @@ export default function SchedulePage() {
                                         </div>
                                         <div>{lesson.room}</div>
                                     </div>
-                                    <div className="text-lg font-semibold">
+                                    <div className="text-lg leading-tight font-semibold">
                                         {lesson.subject} - {lesson.type}
                                     </div>
                                     <div className="text-sm">
