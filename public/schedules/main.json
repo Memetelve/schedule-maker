@@ -39,6 +39,25 @@
             "teacher": "dr Tomasz Górski",
             "status": "Attending",
             "notes": "from 25.03"
+        },
+        {},
+        {
+            "time": "13:00",
+            "end_time": "14:00",
+            "subject": "Tenis stołowy",
+            "type": "???",
+            "room": "ul. Kładki 24",
+            "teacher": "mgr Adam Miotk",
+            "status": "Attending"
+        },
+        {
+            "time": "14:00",
+            "end_time": "14:30",
+            "subject": "Tenis stołowy",
+            "type": "???",
+            "room": "ul. Kładki 24",
+            "teacher": "mgr Adam Miotk",
+            "status": "Attending"
         }
     ],
     "tuesday": [
