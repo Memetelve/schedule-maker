@@ -142,28 +142,28 @@
             "time": "08:00",
             "end_time": "09:00",
             "subject": "Technologie chmurowe",
-            "type": "lecture",
+            "type": "Lecture",
             "teacher": "dr Jakub Neumann",
             "room": " 3.05",
             "notes": "until 10.04",
-            "status": "Absent"
+            "status": "Online"
         },
         {
             "time": "09:00",
             "end_time": "09:30",
             "subject": "Technologie chmurowe",
-            "type": "lecture",
+            "type": "Lecture",
             "teacher": "dr Jakub Neumann",
             "room": " 3.05",
             "notes": "until 10.04",
-            "status": "Absent"
+            "status": "Online"
         },
         {
             "time": "10:00",
             "end_time": "11:00",
             "subject": "Technologie chmurowe",
-            "type": "lab",
-            "teacher": "trzech kasztanów",
+            "type": "Lab",
+            "teacher": "mgr Konrad Sołtys",
             "room": " 3.05",
             "notes": "until 10.04",
             "status": "Online"
@@ -172,8 +172,8 @@
             "time": "11:00",
             "end_time": "11:30",
             "subject": "Technologie chmurowe",
-            "type": "lab",
-            "teacher": "trzech kasztanów",
+            "type": "Lab",
+            "teacher": "mgr Konrad Sołtys",
             "room": " 3.05",
             "notes": "until 10.04",
             "status": "Online"
@@ -182,7 +182,7 @@
             "time": "12:15",
             "end_time": "13:00",
             "subject": "Programowanie w języku Golang",
-            "type": "lecture",
+            "type": "Lecture",
             "teacher": "dr Piotr Arłukowicz, prof. UG",
             "room": "1.14",
             "status": "Attending"
@@ -191,7 +191,7 @@
             "time": "13:00",
             "end_time": "13:45",
             "subject": "Programowanie w języku Golang",
-            "type": "lecture",
+            "type": "Lecture",
             "teacher": "dr Piotr Arłukowicz, prof. UG",
             "room": "1.14",
             "status": "Attending"
@@ -200,7 +200,7 @@
             "time": "14:00",
             "end_time": "15:00",
             "subject": "Bezpieczeństwo aplikacji webowych",
-            "type": "lecture",
+            "type": "Lecture",
             "teacher": "dr Jakub Neumann",
             "room": "1.14",
             "notes": "until 10.04",
@@ -210,10 +210,10 @@
             "time": "15:00",
             "end_time": "15:30",
             "subject": "Bezpieczeństwo aplikacji webowych",
-            "type": "lecture",
+            "type": "Lecture",
             "teacher": "dr Jakub Neumann",
             "room": "1.14",
-            "notes": "until 10.04",
+            "notes": "from 10.04",
             "status": "Absent"
         }
     ],
@@ -228,7 +228,7 @@
             "time": "14:00",
             "end_time": "15:00",
             "subject": "Programowanie w języku Golang",
-            "type": "lab",
+            "type": "Lab",
             "teacher": "dr Piotr Arłukowicz, prof. UG",
             "room": "3.11",
             "status": "Attending"
@@ -237,7 +237,7 @@
             "time": "15:00",
             "end_time": "15:30",
             "subject": "Programowanie w języku Golang",
-            "type": "lab",
+            "type": "Lab",
             "teacher": "dr Piotr Arłukowicz, prof. UG",
             "room": "3.11",
             "status": "Attending"
@@ -248,7 +248,7 @@
             "time": "08:00",
             "end_time": "09:00",
             "subject": "Inteligencja obliczeniowa",
-            "type": "lab",
+            "type": "Lab",
             "room": "3.05",
             "teacher": "mgr Laura Grzonka",
             "notes": "from 15.03",
@@ -258,7 +258,7 @@
             "time": "09:00",
             "end_time": "09:30",
             "subject": "Inteligencja obliczeniowa",
-            "type": "lab",
+            "type": "Lab",
             "room": "3.05",
             "teacher": "mgr Laura Grzonka",
             "notes": "from 15.03",
@@ -268,7 +268,7 @@
             "time": "10:00",
             "end_time": "11:00",
             "subject": "Programowanie obiektowo-funkcyjne",
-            "type": "lecture",
+            "type": "Lecture",
             "room": "1.14",
             "teacher": "dr Tomasz Górski",
             "notes": "from 15.03",
@@ -278,37 +278,27 @@
             "time": "11:00",
             "end_time": "11:30",
             "subject": "Programowanie obiektowo-funkcyjne",
-            "type": "lecture",
+            "type": "Lecture",
             "room": "1.14",
             "teacher": "dr Tomasz Górski",
             "notes": "from 15.03",
             "status": "Attending"
         },
-        {
-            "time": "12:15",
-            "end_time": "13:00",
-            "subject": "Podstawy kryptografii",
-            "type": "lecture",
-            "room": "1.14",
-            "teacher": "dr Andrzej Borzyszkowski",
-            "notes": "every 2 weeks",
-            "status": "Attending"
-        },
+        {},
         {
             "time": "13:00",
             "end_time": "13:45",
             "subject": "Podstawy kryptografii",
-            "type": "lecture",
+            "type": "Lecture",
             "room": "1.14",
             "teacher": "dr Andrzej Borzyszkowski",
-            "notes": "every 2 weeks",
             "status": "Attending"
         },
         {
             "time": "14:00",
             "end_time": "15:00",
             "subject": "Podstawy kryptografii",
-            "type": "lab",
+            "type": "Lab",
             "room": "3.11",
             "teacher": "dr Andrzej Borzyszkowski",
             "notes": "every 2 weeks",
@@ -318,20 +308,20 @@
             "time": "15:00",
             "end_time": "15:30",
             "subject": "Podstawy kryptografii",
-            "type": "lab",
+            "type": "Lab",
             "room": "3.11",
             "teacher": "dr Andrzej Borzyszkowski",
             "notes": "every 2 weeks",
             "status": "Attending"
         },
         {
-            "time": "16:00",
-            "end_time": "17:00",
+            "time": "15:50",
+            "end_time": "16:35",
             "subject": "ABC przedsiębiorczości",
-            "type": "lab",
+            "type": "Lecture",
             "room": "D003 ",
             "teacher": "dr Ewa Ignaciuk",
-            "status": "Absent"
+            "status": "Attending"
         }
     ]
 }
